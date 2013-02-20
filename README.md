@@ -8,7 +8,4 @@
 
 ### Todo
 
-    1. Add actual links to different products (right now they all point to "#")
-    2. Make the "contribute" link prettier
-    3. Add more formal clothing
-    4. Maybe an "Extras" section?
+#### [Pick one and make it yours!](https://github.com/taylorlapeyre/basic-wardrobe/issues)
