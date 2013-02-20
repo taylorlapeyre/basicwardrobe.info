@@ -22,6 +22,8 @@ ul ul { display: inline-block; position: relative; }
 
 ul ul li { padding: 0; font-weight: normal; }
 
+.price { font-size: .8em}
+
 hr { width: 70%; margin: 0 auto; }
 
 aside { position: absolute; left: 10; top: 10; }
