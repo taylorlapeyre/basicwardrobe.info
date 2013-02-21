@@ -6,13 +6,13 @@ header h1 { font-family: 'Crimson Text', serif; font-size: 2em;}
 
 header p { width: 50%; margin: 0 auto; padding-top: 20px; }
 
-li > h2 { font-weight: 600; text-align: center; margin-top: 20px; }
+li > h2 { font-weight: bold; text-align: center; margin-top: 20px; }
 
 li > h2 a { text-decoration: none; color: inherit; cursor: default; }
 
 li > h2 a:hover { text-decoration: none; }
 
-li { clear: both; font-weight: 600; padding-top: 30px; }
+li { clear: both; font-weight: bold; padding-top: 30px; }
 
 ul img { float: right; }
 
