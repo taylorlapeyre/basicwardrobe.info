@@ -26,9 +26,27 @@ ul ul li { padding: 0; font-weight: normal; }
 
 hr { width: 70%; margin: 0 auto; }
 
-aside { position: absolute; left: 10; top: 10; }
+aside { position: absolute; left: 95%; top: 10px; text-align: right; }
 
 aside a {
   color: #aaa !important;
   font-size: .8em;
+}
+
+#cornerBanner {
+  background-color: #DDD;
+  -moz-box-shadow: 2px 2px 20px #888;
+  -moz-transform: rotate(-45deg);
+  -moz-transform-origin: 50% 50%;
+  -webkit-transform: rotate(-45deg);
+  -webkit-transform-origin: 50% 50%;
+  position: absolute;
+  width: 300px;
+  top: 45px;
+  outline: 1px solid #777;
+  font-weight: bold;
+  left: -95px;
+  font-family: sans-serif;
+  text-align: center;
+  box-shadow: 1px 1px 7px #555;
 }
