@@ -1,0 +1,62 @@
+body {
+  width: 70%;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', sans-serif;
+  text-rendering: optimizeLegibility;
+  font-size: 85%;
+  line-height: 1.5;
+  color: #444;
+}
+
+a {
+  color: #f56559;
+  text-decoration: none;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+header h1 {
+  font-family: 'Crimson Text';
+  font-weight: normal;
+}
+
+header p {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.clothing h2 {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  padding: 0;
+  border-bottom: 1px solid #333;
+  margin-bottom: 2em;
+}
+
+.clothing h3:after, .clothing h3:before {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.clothing h2:after, .clothing h2:before {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.clothing img {
+  display: inline-block;
+  float: right;
+  width: 220px;
+  margin-bottom: 2em;
+  margin-left: 30%;
+}
+
+.clothing h3 + p {
+  padding-left: 50%;
+}
