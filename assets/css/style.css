@@ -49,6 +49,12 @@ header p {
   clear: both;
 }
 
+footer:after, footer:before {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .clothing img {
   display: inline-block;
   float: right;
@@ -59,4 +65,10 @@ header p {
 
 .clothing h3 + p {
   padding-left: 50%;
+}
+
+footer {
+  margin-top: 100px;
+  color: #AAA;
+  margin-bottom: 50px;
 }
