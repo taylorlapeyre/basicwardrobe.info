@@ -7,7 +7,7 @@ A good pair of jeans is the most versatile clothing item in your wardrobe. Jeans
 
 - [3Sixteen SL-100x][3sixteen]
 - [Rogue Territory Stantons][stantons]
-- [Levi's 501 Shrink-to-Fit][levi]
+- [Unbranded UB201][unbranded]
 
 
 ### Chinos
@@ -32,7 +32,7 @@ While seasonal (depending on where you live - very seasonal), shorts are essenti
 
 [3sixteen]: http://www.3sixteen.com/collections/denim/products/sl100x-straight-raw-indigo-selvedge-denim
 [stantons]: http://www.rogueterritory.com/shop/stanton/
-[levi]: http://us.levi.com/product/index.jsp?productId=2076855&&cp=3146842.3146854.11301980&fbn=2076855
+[unbranded]: http://theunbrandedbrand.com/collections/all/products/ub201-tapered-fit-indigo-selvedge
 [unis]: http://unisnewyork.com/products/gio
 [epaulet]: http://epauletnewyork.com/collections/trousers-chinos/Rivet-Chinos
 [jcrew]: https://www.jcrew.com/mens_category/shortsswim/chino/PRDOVR~62952/62952.jsp
