@@ -17,6 +17,7 @@ Sometimes we just want to be straight-up causual, and there's nothing better for
 *Suggestions:*
 
 - [Common Projects Achiles Low][cp]
+- [Adidas Stan Smiths][adidas]
 - [Seevees Heromosa Plimsole][seevees]
 
 
@@ -36,3 +37,4 @@ There are going to be times when you want to dress up - but not too fancy - and 
 [seevees]: https://www.seavees.com/products/08-slash-63-hermosa-plimsoll/natural#.U2AZsa1dX89
 [oak-street-penny]: http://oakstreetbootmakers.com/footwear/beefroll-penny-loafer
 [quoddy]: http://www.quoddy.com/classic-boat-shoe/
+[adidas]: http://sneakerpolitics.com/collections/new/products/adidas-stan-smith-vulc-white-royal
