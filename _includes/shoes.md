@@ -19,6 +19,7 @@ Sometimes we just want to be straight-up causual, and there's nothing better for
 - [Common Projects Achiles Low][cp]
 - [Adidas Stan Smiths][adidas]
 - [Seevees Heromosa Plimsole][seevees]
+- [Epaulet Tennis Shoe White Calfskin][epaulet]
 
 
 ### Casual Leather Shoes
@@ -38,3 +39,4 @@ There are going to be times when you want to dress up - but not too fancy - and 
 [oak-street-penny]: http://oakstreetbootmakers.com/footwear/beefroll-penny-loafer
 [quoddy]: http://www.quoddy.com/classic-boat-shoe/
 [adidas]: http://sneakerpolitics.com/collections/new/products/adidas-stan-smith-vulc-white-royal
+[epaulet]: http://epauletnewyork.com/collections/footwear/products/epaulet-tennis-trainer-white-calfskin
