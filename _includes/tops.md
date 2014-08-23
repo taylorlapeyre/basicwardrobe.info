@@ -16,7 +16,7 @@ Besides oxfords, one should have a couple other patterned button ups. Casual but
 
 *Suggestions:*
 
-- [J. Crew Faded Gingham][jcrew]
+- [J. Crew Faded Gingham][jcrew-faded]
 - [Suggest Something!][suggest]
 
 
@@ -39,13 +39,13 @@ Sweaters are a great way to stay warm when it's cold out. Sweaters are unique be
 *Suggestions:*
 
 - [Everlane Cashmere Crew][everlane-sweater]
-- [UNIQLO Cashmere V-Neck][uniqlo]
+- [UNIQLO Cashmere V-Neck][uniqlo-v]
 
 [everlane-ofxford]: https://www.everlane.com/collections/mens-shirts/products/mens-oxford-lightblue
 [bb]: http://www.brooksbrothers.com/Extra-Slim-Fit-Button-Down-Collar-Dress-Shirt/529Q,default,pd.html?dwvar_529Q_Color=BLUE&contentpos=11&cgid=0203
-[jcrew]: https://www.jcrew.com/mens_category/shirts/washedfavoriteshirts/PRDOVR~19417/19417.jsp?TCode=GGBS00006&sisearchengine=197&siproduct=19417&origin=pla&cagpspn=pla
+[jcrew-faded]: https://www.jcrew.com/mens_category/shirts/washedfavoriteshirts/PRDOVR~19417/19417.jsp?TCode=GGBS00006&sisearchengine=197&siproduct=19417&origin=pla&cagpspn=pla
 [everlane-t]: https://www.everlane.com/collections/mens-tees/products/mens-crew-light-grey
 [outlier]: http://shop.outlier.cc/shop/retail/ultrafine-merino-tee.html
 [everlane-sweater]: https://www.everlane.com/collections/mens-sweaters/products/mens-cashmere-crew-light-grey
-[uniqlo]: http://www.uniqlo.com/us/search.html?q=MEN+CASHMERE+V+NECK+SWEATER
+[uniqlo-v]: http://www.uniqlo.com/us/search.html?q=MEN+CASHMERE+V+NECK+SWEATER
 [suggest]: https://github.com/taylorlapeyre/basic-wardrobe/issues?state=open

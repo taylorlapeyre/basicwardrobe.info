@@ -6,7 +6,7 @@ Boots are one of the most important items of footwear in a man's wardrobe. Boots
 *Suggestions:*
 
 - [Red Wing Iron Rangers][red-wing]
-- [Alden Indy][alden]
+- [Alden Indy][alden-boot]
 
 
 ### Sneakers
@@ -19,7 +19,7 @@ Sometimes we just want to be straight-up causual, and there's nothing better for
 - [Common Projects Achiles Low][cp]
 - [Adidas Stan Smiths][adidas]
 - [Seevees Heromosa Plimsole][seevees]
-- [Epaulet Tennis Shoe White Calfskin][epaulet]
+- [Epaulet Tennis Shoe White Calfskin][epaulet-shoe]
 
 
 ### Casual Leather Shoes
@@ -33,10 +33,10 @@ There are going to be times when you want to dress up - but not too fancy - and 
 - [Quoddy Classic Boat Shoe][quoddy]
 
 [red-wing]: http://www.redwingheritage.com/boots/#&m=/detail/8111-heritage-us/8111-red-wing-lifestyle-mens-iron-ranger-boot-amber/
-[alden]: http://www.aldenshop.com/Store/DrawProducts.aspx?CategoryID=163&ParentID=4&PageID=&Action=
+[alden-boot]: http://www.aldenshop.com/Store/DrawProducts.aspx?CategoryID=163&ParentID=4&PageID=&Action=
 [cp]: http://www.mrporter.com/product/377903?cm_mmc=ProductSearch-_-us-_-Sneakers-_-Original&gclid=CIbx3IOikL4CFaNj7AodTCgAYg
 [seevees]: https://www.seavees.com/products/08-slash-63-hermosa-plimsoll/natural#.U2AZsa1dX89
 [oak-street-penny]: http://oakstreetbootmakers.com/footwear/beefroll-penny-loafer
 [quoddy]: http://www.quoddy.com/classic-boat-shoe/
 [adidas]: http://sneakerpolitics.com/collections/new/products/adidas-stan-smith-vulc-white-royal
-[epaulet]: http://epauletnewyork.com/collections/footwear/products/epaulet-tennis-trainer-white-calfskin
+[epaulet-shoe]: http://epauletnewyork.com/collections/footwear/products/epaulet-tennis-trainer-white-calfskin

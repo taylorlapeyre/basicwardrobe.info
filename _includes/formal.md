@@ -49,8 +49,8 @@ When suiting up, even casual leather shoes won't do. A pair of oxfords in either
 
 *Suggestions:*
 
-- [Allen Edmonds Park Avenue][allen-edmonds]
-- [Anything dress shoe by Alden][alden]
+- [Allen Edmonds Park Avenue][allen-edmonds-park]
+- [Anything dress shoe by Alden][alden-dress]
 
 
 [baroni]: http://suityourself.com/soft_shoulder_blazer.asp
@@ -60,5 +60,5 @@ When suiting up, even casual leather shoes won't do. A pair of oxfords in either
 [jcrew-suit]: http://www.jcrew.com/AST/Navigation/theludlowsuit.jsp
 [jpress]: http://jpressonline.com/neckwear/
 [tie-bar]: http://www.thetiebar.com/categoryPages/All_Ties.asp
-[allen-edmonds]: http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1
-[alden]: http://www.aldenshop.com/Store/DrawCategories.aspx?CategoryID=3&PageID=20
+[allen-edmonds-park]: http://www.allenedmonds.com/aeonline/producti_SF270_1_40000000001_-1
+[alden-dress]: http://www.aldenshop.com/Store/DrawCategories.aspx?CategoryID=3&PageID=20

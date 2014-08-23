@@ -28,11 +28,11 @@ While seasonal (depending on where you live - very seasonal), shorts are essenti
 
 *Suggestions:*
 
-- [J. Crew Essential Chino Shorts][jcrew]
+- [J. Crew Essential Chino Shorts][jcrew-shorts]
 
 [3sixteen]: http://www.3sixteen.com/collections/denim/products/sl100x-straight-raw-indigo-selvedge-denim
 [stantons]: http://www.rogueterritory.com/shop/stanton/
 [unbranded]: http://theunbrandedbrand.com/collections/all/products/ub201-tapered-fit-indigo-selvedge
 [unis]: http://unisnewyork.com/products/gio
 [epaulet]: http://epauletnewyork.com/collections/trousers-chinos/Rivet-Chinos
-[jcrew]: https://www.jcrew.com/mens_category/shortsswim/chino/PRDOVR~62952/62952.jsp
+[jcrew-shorts]: https://www.jcrew.com/mens_category/shortsswim/chino/PRDOVR~62952/62952.jsp
