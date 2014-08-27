@@ -38,5 +38,5 @@ There are going to be times when you want to dress up - but not too fancy - and 
 [seevees]: https://www.seavees.com/products/08-slash-63-hermosa-plimsoll/natural#.U2AZsa1dX89
 [oak-street-penny]: http://oakstreetbootmakers.com/footwear/beefroll-penny-loafer
 [quoddy]: http://www.quoddy.com/classic-boat-shoe/
-[adidas]: http://sneakerpolitics.com/collections/new/products/adidas-stan-smith-vulc-white-royal
+[adidas]: http://www.adidas.com/us/product/mens-originals-stan-smith-shoes/ION05?cid=M20326&breadcrumb=1z13071Z1z11zrfZsvZ1z11npeZ1z13ybj
 [epaulet-shoe]: http://epauletnewyork.com/collections/footwear/products/epaulet-tennis-trainer-white-calfskin
