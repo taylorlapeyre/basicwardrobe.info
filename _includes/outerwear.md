@@ -1,7 +1,7 @@
 ### A Light Jacket
 ![](/assets/images/light-jacket.png)
 
-A jacket is made to be worn many many times - often in a row. Jackets are meant to suffer through the abuse of bad weather, and keep you warm while doing it. Nevertheless, Many people look over a good jacket's importance. Here are some suggestions for jackets that are both light and durable.
+A jacket is made to be worn many many times - often in a row. Jackets are meant to suffer through the abuse of bad weather, and keep you warm while doing it. Nevertheless, many people overlook the jacket's importance. Here are some suggestions for jackets that are both light and durable.
 
 *Suggestions:*
 
@@ -12,7 +12,7 @@ A jacket is made to be worn many many times - often in a row. Jackets are meant 
 ### A Coat
 ![](/assets/images/coat.png)
 
-For the times when the weather gets particuraly cold, a coat can be your best friend. When considering a coat, wool is the only material that you should consider. For this reason, many people prefer a pea coat as the go-to option. A pea coat is a very well-established item with a rich history that pairs well with many other clothes. I would be quick to recommend it.
+A coat can be your best friend when the weather gets particuraly cold. Wool is the only material that you should consider for a proper coat. For this reason, many people prefer a pea coat as the go-to option. While a pea coat is a very well-established item with a rich history, it can sometimes be a bit dressy for casual use. Use your discretion, and choose a shorter length coat if you plan to wear it casually.
 
 - [Schott 32 Oz. Melton Wool Naval Pea Coat][schott]
 - [J. Crew University Coat][jcrew]
