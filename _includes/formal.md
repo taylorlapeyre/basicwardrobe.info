@@ -1,7 +1,7 @@
 ### Navy Blazer
 ![](/assets/images/blazer.png)
 
-The navy blazer practically defines the word "staple." It's an essential in any wardrobe worth its salt. A blazer should be cut slim to the body and should be a tad bit shorter than your arm as it lays by your side. This is an item that is worth getting tailored. Modern styling favors a double vent in the back.
+The navy blazer practically defines the word "staple." It's an essential. A blazer should be cut slim to the body and should be a tad bit shorter than your arm as it lays by your side. This is an item that is worth getting tailored. Modern styling favors a double vent in the back.
 
 *Suggestions:*
 
@@ -34,7 +34,7 @@ Even if you don't consider yourself a fancy individual, there will undoubtably b
 ### Ties
 ![](/assets/images/tie.png)
 
-Ties vary in an extreme amount of ways. However one thing should always be true: your tie should always match your shirt. Therefore, when looking for ties, keep in mind the colors your dress shirts (as well as the length of the tie) before making the purchase.
+Ties vary in an extreme amount of ways. However, one thing should always be true: your tie should always match your shirt. Therefore, when looking for ties, keep in mind the colors your dress shirts (as well as the length of the tie) before making the purchase.
 
 *Suggestions:*
 
