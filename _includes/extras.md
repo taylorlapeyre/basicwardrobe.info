@@ -1,7 +1,7 @@
 ### Rain Jacket
 ![](/assets/images/rain-jacket.png)
 
-When the weather gets sour, you're going to need a durable raincoat to keep you dry throughout the day. Choose waterproof material that will last and a design that will work for both formal and informal occasions.
+A durable raincoat is an important part to a truly well-rounded wardrobe. Choose waterproof material that will last and a design that will work for both formal and informal occasions. Be wary of rain jackets without a hood.
 
 *Suggestions:*
 
@@ -12,7 +12,7 @@ When the weather gets sour, you're going to need a durable raincoat to keep you 
 ### Rain Boots
 ![](/assets/images/rain-boots.png)
 
-When its pouring its a good idea to save your nice dress shoes and put on a pair of durable rain boots instead. Focus on utility over fashion for your rainboots.
+When its pouring its a good idea to save your nice shoes and put on a pair of durable rain boots instead. Focus on utility over fashion for your rainboots.
 
 *Suggestions:*
 
