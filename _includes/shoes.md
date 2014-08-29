@@ -1,7 +1,7 @@
 ### Boots
 ![](/assets/images/boots.png)
 
-Boots are one of the most important items of footwear in a man's wardrobe. Boots are timeless and should be chosen with great care. It is very important to invest in a good pair of boots that will last a long time, conform to your feet, and develop a patina. Boots should only be worn with pants, but can go with almost any outfit.
+Boots are one of the most important items of footwear in a man's wardrobe. They are timeless and should be chosen with great care. It is very important to invest in a good pair of boots that will last a long time, conform to your feet, and develop a patina. Boots should only be worn with pants, but can go with almost any outfit.
 
 *Suggestions:*
 
@@ -12,7 +12,7 @@ Boots are one of the most important items of footwear in a man's wardrobe. Boots
 ### Sneakers
 ![](/assets/images/sneakers.png)
 
-Sometimes we just want to be straight-up causual, and there's nothing better for casual clothes than slipping on a pair of worn-in sneakers. Sneakers don't have to stand up to the same level of scrutiny as other shoes do, but some people slave over finding the perfect pair of sneakers. Grey, white, and navy are the most versatile colors.
+Sometimes we just want to be straight-up causual, and there's nothing better for casual clothes than slipping on a pair of worn-in sneakers. High quality sneakers have become extremely popular recently, and some people slave over finding the perfect pair of sneakers. Grey, white, and navy are the most versatile colors.
 
 *Suggestions:*
 
