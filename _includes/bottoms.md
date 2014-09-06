@@ -34,5 +34,5 @@ While very seasonal, shorts are essential to any wardrobe that wants to remain r
 [stantons]: http://www.rogueterritory.com/shop/stanton/
 [unbranded]: http://theunbrandedbrand.com/collections/all/products/ub201-tapered-fit-indigo-selvedge
 [unis]: http://unisnewyork.com/products/gio
-[epaulet]: http://epauletnewyork.com/collections/trousers-chinos/Rivet-Chinos
+[epaulet]: http://epauletnewyork.com/collections/bottoms/Rivet-Chinos
 [jcrew-shorts]: https://www.jcrew.com/mens_category/shortsswim/chino/PRDOVR~62952/62952.jsp
