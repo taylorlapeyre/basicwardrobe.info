@@ -7,6 +7,16 @@ body {
   color: #444;
 }
 
+.social {
+  position: absolute;
+  right: 0;
+  top: 10px;
+}
+
+.social iframe {
+  width: 95px !important;
+}
+
 a {
   color: #f56559;
   text-decoration: none;
