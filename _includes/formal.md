@@ -1,5 +1,5 @@
 ### Navy Blazer
-![](/assets/images/blazer.png)
+![](assets/images/blazer.png)
 
 The navy blazer practically defines the word "staple." It's an essential. A blazer should be cut slim to the body and should be a tad bit shorter than your arm as it lays by your side. This is an item that is worth getting tailored. Modern styling favors a double vent in the back.
 
@@ -10,7 +10,7 @@ The navy blazer practically defines the word "staple." It's an essential. A blaz
 
 
 ### Dress Shirts
-![](/assets/images/dress-shirt.png)
+![](assets/images/dress-shirt.png)
 
 Dress shirts differ from regular button-ups in that they are usually made with a higher quality fabric (look for "pinpoint"). Dress shirts usually don't have a button down collar, are measured by collar and shoulder sizes, and are longer than a casual shirt for tucking in. These shirts (similar to all formal attire) should be tailored.
 
@@ -21,7 +21,7 @@ Dress shirts differ from regular button-ups in that they are usually made with a
 
 
 ### Charcoal Suit
-![](/assets/images/suit.png)
+![](assets/images/suit.png)
 
 Even if you don't consider yourself a fancy individual, there will undoubtably be a time in a man's life when a suit is needed. Charcoal is a good color because it goes well with shoes of all colors and can be worn to practically any event. A suit should be tailored to your body.
 
@@ -32,7 +32,7 @@ Even if you don't consider yourself a fancy individual, there will undoubtably b
 
 
 ### Ties
-![](/assets/images/tie.png)
+![](assets/images/tie.png)
 
 Ties vary in an extreme amount of ways. However, one thing should always be true: your tie should always match your shirt. Therefore, when looking for ties, keep in mind the colors your dress shirts (as well as the length of the tie) before making the purchase.
 
@@ -43,7 +43,7 @@ Ties vary in an extreme amount of ways. However, one thing should always be true
 
 
 ### Dress Shoes
-![](/assets/images/dress-shoes.png)
+![](assets/images/dress-shoes.png)
 
 When suiting up, even casual leather shoes won't do. A pair of oxfords in either black or dark brown is a good compliment to a suit. There are many different kinds of dress shoes, but the most common are plain-toe, cap-toe, and wingtip. Dress shoes, like all other leather shoes in this list, are an investment that you shouldn't be afraid to splurge on.
 

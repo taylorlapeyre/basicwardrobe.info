@@ -1,5 +1,5 @@
 ### Rain Jacket
-![](/assets/images/rain-jacket.png)
+![](assets/images/rain-jacket.png)
 
 A durable raincoat is an important part to a truly well-rounded wardrobe. Choose waterproof material that will last and a design that will work for both formal and informal occasions. Be wary of rain jackets without a hood.
 
@@ -10,7 +10,7 @@ A durable raincoat is an important part to a truly well-rounded wardrobe. Choose
 
 
 ### Rain Boots
-![](/assets/images/rain-boots.png)
+![](assets/images/rain-boots.png)
 
 When its pouring its a good idea to save your nice shoes and put on a pair of durable rain boots instead. Focus on utility over fashion for your rainboots.
 
