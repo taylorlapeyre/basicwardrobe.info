@@ -5,7 +5,7 @@ A jacket is made to be worn many many times - often in a row. Jackets are meant 
 
 *Suggestions:*
 
-- [Sierra Designs Heritage 60/40 Parka][sierra]
+- [Barbour Bedale][barbour]
 - [Baracuda G9 Harrington Jacket][baracuda]
 
 
@@ -23,3 +23,4 @@ A coat can be your best friend when the weather gets particuraly cold. Wool is t
 [schott]: http://www.schottnyc.com/products/fabric/wool/classic-32-oz-melton-wool.htm
 [jcrew]: https://www.jcrew.com/mens_category/outerwear/wool/PRDOVR~96037/96037.jsp
 [w&b]: https://www.jcrew.com/AST/Navigation/Sale/AllProducts/PRD~05058/05058.jsp?Nbrd=J&Nloc=en_US&Nrpp=48&Npge=1&Ntrm=skiff+jacket&isFromSearch=true&isSaleItem=true&isNewSearch=true&hash=row0
+[barbour]: http://www.barbour.com/us/all-collections/mens/waxed-jackets/bedale-waxed-jacket/p/MWX0018BK9130
