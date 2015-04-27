@@ -18,7 +18,7 @@ Sometimes we just want to be straight-up causual, and there's nothing better for
 
 - [Common Projects Achiles Low][cp]
 - [Adidas Stan Smiths][adidas]
-- [Erik Schedin Sneakers][http://erikschedin.com/]
+- [Erik Schedin Sneakers](http://erikschedin.com/)
 
 
 ### Casual Leather Shoes
