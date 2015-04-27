@@ -28,7 +28,7 @@ A T-Shirt is about as basic as you can get. However, don't be fooled. Finding th
 *Suggestions:*
 
 - [Everlane Men's Crew][everlane-t]
-- [Outlier Merino T-Shirt][outlier]
+- [Uniqlo T-Shirt][uniqlo-t]
 
 
 ### Sweaters
@@ -48,4 +48,5 @@ Sweaters are a great way to stay warm when it's cold out. They are somewhat uniq
 [outlier]: http://shop.outlier.cc/shop/retail/ultrafine-merino-tee.html
 [everlane-sweater]: https://www.everlane.com/collections/mens-sweaters/products/mens-cashmere-crew-light-grey
 [uniqlo-v]: http://www.uniqlo.com/us/search.html?q=MEN+CASHMERE+V+NECK+SWEATER
+[uniqlo-t]: http://www.uniqlo.com/us/men/tops/t-shirts.html
 [suggest]: https://github.com/taylorlapeyre/basic-wardrobe/issues?state=open
