@@ -17,12 +17,15 @@
           -
             name: Rogue Territory Stantons
             link: http://www.rogueterritory.com/shop/stanton/
-
     -
       component_name: Chinos
       image: assets/images/chinos.jpg
       intro: Chinos (also known as “khakis”) are an important part of any wardrobe. Their generally earthy tones lend themselves very well to matching other clothes. Chinos are very easy to dress up or down (moreso than jeans), and pair very well with button downs.
       suggestions:
+        budget:
+          -
+            name: Bonobos Washed Chinos
+            link: https://bonobos.com/products/washed-chinos?color=the%20khakis
         high_quality:
           -
             name: Unis Gio
@@ -61,22 +64,33 @@
       image: assets/images/buttonup.jpg
       intro: Besides oxfords, one should have a couple other patterned shirts. Casual button ups should not be so busy that they are hard to look at, but instead just subtle enough that they compliment an outfit without taking away from the other parts of it.
       suggestions:
-        "": # not budget or high_quality
+        budget:
+          -
+            name: Everlane Slim Fit Poplin
+            link: https://www.everlane.com/collections/mens-shirt-shop/products/mens-modern-poplin-blue-check
           -
             name: J. Crew Faded Gingham
             link: https://www.jcrew.com/mens_category/shirts/washedfavoriteshirts/PRDOVR~19417/19417.jsp?TCode=GGBS00006&sisearchengine=197&siproduct=19417&origin=pla&cagpspn=pla
+        high_quality:
+          -
+            name: Gitman Vintage
+            link: http://www.gitman.com/collections/dress-shirts
     -
       component_name: T-Shirts
       image: assets/images/tshirt.jpg
       intro: "A T-Shirt is about as basic as you can get. However, don’t be fooled. Finding the right T-Shirt can be quite tricky. A good T-Shirt is all about fit: too loose and you’ll look sloppy, but too slim and the shirt will appear too small."
       suggestions:
-        "": # not budget or high_quality
+        budget:
           -
             name: Everlane Men’s Crew
             link: https://www.everlane.com/collections/mens-tees/products/mens-crew-light-grey
           -
             name: Uniqlo Supima Cotton Crew Neck
             link: http://www.uniqlo.com/us/product/men-supima-cotton-crew-neck-short-sleeve-t-shirt-138686.html
+        high_quality:
+          -
+            name: Reigning Champ SS Tee
+            link: http://shop.reigningchamp.com/collections/core-program/products/2-pack-ss-tee-white
     -
       component_name: Sweaters
       image: assets/images/sweaters.jpg
@@ -98,10 +112,14 @@
       image: assets/images/lightjacket.jpg
       intro: A jacket is made to be worn many many times - often in a row. Jackets are meant to suffer through the abuse of bad weather, and keep you warm while doing it. Nevertheless, many people overlook the jacket’s importance. Here are some suggestions for jackets that are both light and durable.
       suggestions:
+        budget:
+          -
+            name: Uniqlo Mountain Parka
+            link: http://www.uniqlo.com/us/product/men-mountain-parka-139275.html
         high_quality:
           -
             name: Barbour Bedale
-            link: http://www.barbour.com/us/all-collections/mens/waxed-jackets/bedale-waxed-jacket/p/MWX0018BK9130
+            link: http://www1.bloomingdales.com/shop/product/barbour-classic-bedale-waxed-cotton-coat?ID=748746
           -
             name: Baracuda G9 Harrington Jacket
             link: http://us.baracuta.com/on/demandware.store/Sites-WPBAWO-US-Site/default/Icons-Detail?cgid=br_G9
@@ -129,6 +147,10 @@
       image: assets/images/boot.jpg
       intro: Boots are one of the most important items of footwear in a man’s wardrobe. They are timeless and should be chosen with great care. It is very important to invest in a good pair of boots that will last a long time, conform to your feet, and develop a patina. Boots should only be worn with pants, but can go with almost any outfit.
       suggestions:
+        budget:
+          -
+            name: Clark's Desert Boots
+            link: http://www.clarksusa.com/us/mens/mens-medium-width/Mens-Desert-Boot-Beeswax/p/26106562
         high_quality:
           -
             name: Red Wing Iron Rangers
@@ -158,6 +180,10 @@
       image: assets/images/leather.jpg
       intro: There are going to be times when you want to dress up - but not too fancy - and sneakers and boots won’t cut it. This is where a casual leather shoe comes in. Typically mocassin-style, these shoes include loafers, boat shoes, and trail oxfords. Like boots, these are shoes that you will want to invest heavily in.
       suggestions:
+        budget:
+          -
+            name: Sperrys Top Sider Boat Shoes
+            link: http://www.zappos.com/sperry-top-sider-authentic-original-sahara
         high_quality:
           -
             name: Oak Street Bootmakers Beefroll Penny Loafer
