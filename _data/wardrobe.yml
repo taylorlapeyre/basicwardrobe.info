@@ -81,13 +81,14 @@
       component_name: Sweaters
       image: assets/images/sweaters.jpg
       intro: Sweaters are a great way to stay warm when it’s cold out. They are somewhat unique because they tend to look great with almost any button up shirt. They are, without a doubt, one of the core building blocks of layering. With sweaters, you’ll almost certainly want to stick to cashmere.
-      "": # not budget or high_quality
-        -
-          name: Everlane Cashmere Crew
-          link: https://www.everlane.com/collections/mens-sweaters/products/mens-cashmere-crew-light-grey
-        -
-          name: Uniqlo Cashmere V-Neck
-          link: http://www.uniqlo.com/us/search.html?q=MEN+CASHMERE+V+NECK+SWEATER
+      suggestions:
+        "": # not budget or high_quality
+          -
+            name: Everlane Cashmere Crew
+            link: https://www.everlane.com/collections/mens-sweaters/products/mens-cashmere-crew-light-grey
+          -
+            name: Uniqlo Cashmere V-Neck
+            link: http://www.uniqlo.com/us/search.html?q=MEN+CASHMERE+V+NECK+SWEATER
 
 -
   section_name: Outerwear
