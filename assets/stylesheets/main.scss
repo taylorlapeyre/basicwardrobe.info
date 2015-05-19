@@ -1,0 +1,75 @@
+---
+---
+
+$accent: #64B24D;
+$body: #555459;
+
+html {
+  font-family: "Lato", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  color: $body;
+}
+
+body {
+  margin: 30px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+li {
+  margin: 0.8em 0;
+}
+
+a {
+  color: $body;
+}
+
+h1, h2, h3, h4 { margin: 0; }
+
+* {
+  text-align: left;
+  font-size: 16px;
+}
+
+header {
+  margin-bottom: 170px;
+
+  h1 {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+
+  p {
+    width: 80%;
+  }
+
+  nav {
+    a {
+      padding-right: 15px;
+      word-wrap: break-word;
+    }
+  }
+}
+
+.clothing-section {
+
+  h2 {
+    margin-bottom: 100px;
+  }
+}
+
+.component {
+  margin-bottom: 100px;
+
+  img {
+    width: 90%;
+  }
+
+  a {
+    text-decoration: none;
+    border-bottom: 2px solid $accent;
+  }
+}

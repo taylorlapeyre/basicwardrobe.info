@@ -1,0 +1,81 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>A Basic Wardrobe</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+    <link href="assets/stylesheets/lib/normalize.css" rel="stylesheet">
+    <link href="assets/stylesheets/lib/flexiblegs.min.css" rel="stylesheet">
+    <link href="assets/stylesheets/main.css" rel="stylesheet">
+  </head>
+  <body>
+    <header class="wrap">
+      <div class="xl-2-8 sm-1-1">
+        <h1>A Basic Wardrobe</h1>
+      </div>
+      <div class="xl-6-8 sm-1-1">
+        <nav>
+          {% for section in site.data.wardrobe %}
+            <a href="#{{section.section_name | replace:' ','' | downcase }}">{{ section.section_name}}</a>
+          {% endfor %}
+        </nav>
+        <p>
+          The goal of this website is to present a minimal capsule wardrobe for men that has been carefully thought out and considered.
+        </p>
+      </div>
+    </header>
+    {% for section in site.data.wardrobe %}
+      <div class="clothing-section wrap gutter-2-xl">
+        <div class="xl-2-8 sm-1-1">
+          <h2>
+            <a name="{{section.section_name | replace:' ','' | downcase }}">
+              {{ section.section_name }}
+            </a>
+          </h2>
+        </div>
+        <div class="xl-6-8 sm-1-1">
+          {% for component in section.components %}
+            <div class="component wrap">
+              <div class="xl-1-3 sm-1-1">
+                <img src="{{ component.image }}">
+              </div>
+              <div class="xl-2-3 sm-1-1">
+                <h3>{{ component.component_name }}</h3>
+                <p>{{ component.intro }}</p>
+                {% if component.suggestions %}
+                  <div class="suggestions wrap">
+                    {% for budget_hash in component.suggestions %}
+                      <div class="xl-1-{{forloop.length}}">
+                        <p><strong>{{budget_hash[0] | replace:'_',' ' | capitalize }}</strong></p>
+                        <ul>
+                          {% for item in budget_hash[1] %}
+                            <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+                          {% endfor %}
+                        </ul>
+                      </div>
+                    {% endfor %}
+                  </div>
+                {% else %}
+                  <p>See your local tailor for recommendations.</p>
+                {% endif %}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+    <footer>
+      <p>
+        A Thing by <a href="http://taylorlapeyre.me">Taylor Lapeyre.</a>
+        This website is <a href="https://github.com/taylorlapeyre/basicwardrobe.info">open source</a>.
+      </p>
+      <p>
+        Images provided by <a href="http://needsupply.com/">Need Supply</a>, a fantastic clothing website.</a>
+      </p>
+    </footer>
+  </body>
+</html>
