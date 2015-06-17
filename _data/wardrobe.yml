@@ -219,6 +219,11 @@
       component_name: Charcoal Suit
       image: assets/images/suit.jpg
       intro: Even if you don’t consider yourself a fancy individual, there will undoubtably be a time in a man’s life when a suit is needed. Charcoal is a good color because it goes well with shoes of all colors and can be worn to practically any event. A suit should be tailored to your body.
+      suggestions:
+        "":
+          -
+            name: Kent Wang Charcoal Trial Suit
+            link: http://www.kentwang.com/suits/charcoal.html
     -
       component_name: Ties
       image: assets/images/tie.jpg
@@ -232,7 +237,6 @@
           -
             name: J. Press
             link: http://jpressonline.com/neckwear/
-
     -
       component_name: Dress Shoes
       image: assets/images/dressshoe.jpg
