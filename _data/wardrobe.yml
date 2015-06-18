@@ -38,10 +38,14 @@
       image: assets/images/shorts.jpg
       intro: While very seasonal, shorts are essential to any wardrobe that wants to remain relevant in the warmer months of the year. In terms of colors, shorts fall under the same category as chinos. However, it’s virtually impossible to dress shorts up. You’ll want to look for specific fabrics for shorts - particurally chino, poplin, and linen.
       suggestions:
-        "": # not budget or high_quality
+        budget:
           -
             name: J. Crew Essential Chino Shorts
             link: https://www.jcrew.com/mens_category/shortsswim/chino/PRDOVR~62952/62952.jsp
+        high_quality:
+          -
+            name: Outlier Free Way Shorts
+            link: http://shop.outlier.cc/shop/retail/new-way-shorts.html
 
 -
   section_name: Tops
@@ -129,7 +133,7 @@
     -
       component_name: Coats
       image: assets/images/coat.jpg
-      intro: A coat can be your best friend when the weather gets particuraly cold. Wool is the only material that you should consider for a proper coat. For this reason, many people prefer a pea coat as the go-to option. While a pea coat is a very well-established item with a rich history, it can sometimes be a bit dressy for casual use. Use your discretion, and choose a shorter length coat if you plan to wear it casually.
+      intro: A coat can be your best friend when the weather gets particuraly cold. Wool is probably the best matierial for a proper coat. For this reason, many people prefer a pea coat as the go-to option. While a pea coat is a very well-established item with a rich history, it can sometimes be a bit dressy for casual use. Use your discretion, and choose a shorter length coat if you plan to wear it casually.
       suggestions:
         high_quality:
           -
